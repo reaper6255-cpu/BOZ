@@ -1,0 +1,6 @@
+{
+  "id": "Midnight",
+  "label": "Midnight",
+  "rgb": "192, 132, 252",
+  "pattern": "radial-gradient(at 0% 0%, hsla(260, 60%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(320, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(220, 60%, 20%, 1) 0, transparent 70%)"
+}
