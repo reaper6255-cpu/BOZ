@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260310-194210-zt2h",
+    "title": "Leo Stole My Heart",
+    "commanders": [
+      "Leo Stole My Heart"
+    ],
+    "dateStart": "2026-03-11T00:42:10.000Z",
+    "dateEnd": "2026-03-11T02:08:57.000Z",
+    "dateLabel": "3/10/2026, 7:42:10 PM - 3/10/2026, 9:08:57 PM",
+    "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260310-194210-zt2h",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 19,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 21
+    }
+  },
+  {
     "id": "20260304-194643-zvtb",
     "title": "Leo Stole My Heart",
     "commanders": [
