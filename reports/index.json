@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260315-202701-ntgl",
+      "title": "Slap Dat Assassin, Ur New Step Dad",
+      "commanders": [
+        "Slap Dat Assassin",
+        "Ur New Step Dad"
+      ],
+      "dateStart": "2026-03-16T01:27:01.000Z",
+      "dateEnd": "2026-03-16T02:45:18.000Z",
+      "dateLabel": "3/15/2026, 8:27:01 PM - 3/15/2026, 9:45:18 PM",
+      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260315-202701-ntgl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260312-194043-33lp",
       "title": "Leo Stole My Heart",
       "commanders": [
