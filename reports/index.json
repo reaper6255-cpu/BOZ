@@ -1,30 +1,65 @@
-[
-  {
-    "id": "20260317-194041-fbwg",
-    "title": "Leo Stole My Heart",
-    "commanders": [
-      "Leo Stole My Heart"
-    ],
-    "dateStart": "2026-03-18T00:40:41.000Z",
-    "dateEnd": "2026-03-18T02:26:55.000Z",
-    "dateLabel": "3/17/2026, 7:40:41 PM - 3/17/2026, 9:26:55 PM",
-    "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260317-194041-fbwg",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 24,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260324-200004-pl16",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 30
+      "dateStart": "2026-03-25T01:00:04.000Z",
+      "dateEnd": "2026-03-25T02:26:34.000Z",
+      "dateLabel": "3/24/2026, 8:00:04 PM - 3/24/2026, 9:26:34 PM",
+      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260324-200004-pl16",
+      "summary": {
+        "borderlandsPct": 0.4827586206896552,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260317-194041-fbwg",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-18T00:40:41.000Z",
+      "dateEnd": "2026-03-18T02:26:55.000Z",
+      "dateLabel": "3/17/2026, 7:40:41 PM - 3/17/2026, 9:26:55 PM",
+      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260317-194041-fbwg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
     }
-  }
-]
+  ]
+}
