@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260328-142716-qz0r",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-03-28T19:27:16.000Z",
+      "dateEnd": "2026-03-29T02:00:35.000Z",
+      "dateLabel": "3/28/2026, 2:27:16 PM - 3/28/2026, 9:00:35 PM",
+      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260328-142716-qz0r",
+      "summary": {
+        "borderlandsPct": 0.4716981132075472,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260326-193050-z54x",
       "title": "Leo Stole My Heart",
       "commanders": [
