@@ -1,263 +1,30 @@
-{
-  "colorPalette": "rose-pink",
-  "glassSurfaces": false,
-  "entries": [
-    {
-      "id": "20260607-193547-lfzu",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
+[
+  {
+    "id": "20260623-193219-vhv0",
+    "title": "Leo Stole My Heart",
+    "commanders": [
+      "Leo Stole My Heart"
+    ],
+    "dateStart": "2026-06-24T00:32:19.000Z",
+    "dateEnd": "2026-06-24T02:14:45.000Z",
+    "dateLabel": "6/23/2026, 7:32:19 PM - 6/23/2026, 9:14:45 PM",
+    "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260623-193219-vhv0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 23,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        }
       ],
-      "dateStart": "2026-06-08T00:35:47.000Z",
-      "dateEnd": "2026-06-08T01:48:25.000Z",
-      "dateLabel": "6/7/2026, 7:35:47 PM - 6/7/2026, 8:48:25 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260607-193547-lfzu",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260422-195700-a3rk",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-04-23T00:57:00.000Z",
-      "dateEnd": "2026-04-23T01:37:59.000Z",
-      "dateLabel": "4/22/2026, 7:57:00 PM - 4/22/2026, 8:37:59 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260422-195700-a3rk",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 18,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260421-193245-7zzt",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-04-22T00:32:45.000Z",
-      "dateEnd": "2026-04-22T02:06:31.000Z",
-      "dateLabel": "4/21/2026, 7:32:45 PM - 4/21/2026, 9:06:31 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260421-193245-7zzt",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 54
-      }
-    },
-    {
-      "id": "20260415-205514-rx0s",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-04-16T01:55:14.000Z",
-      "dateEnd": "2026-04-16T02:33:45.000Z",
-      "dateLabel": "4/15/2026, 8:55:14 PM - 4/15/2026, 9:33:45 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260415-205514-rx0s",
-      "summary": {
-        "borderlandsPct": 0.4864864864864865,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 18,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 57
-      }
-    },
-    {
-      "id": "20260411-193643-hstt",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-04-12T00:36:43.000Z",
-      "dateEnd": "2026-04-12T02:13:00.000Z",
-      "dateLabel": "4/11/2026, 7:36:43 PM - 4/11/2026, 9:13:00 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260411-193643-hstt",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 25,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 57
-      }
-    },
-    {
-      "id": "20260328-142716-qz0r",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-03-28T19:27:16.000Z",
-      "dateEnd": "2026-03-29T02:00:35.000Z",
-      "dateLabel": "3/28/2026, 2:27:16 PM - 3/28/2026, 9:00:35 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260328-142716-qz0r",
-      "summary": {
-        "borderlandsPct": 0.4716981132075472,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 28,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 17,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260326-193050-z54x",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-03-27T00:30:50.000Z",
-      "dateEnd": "2026-03-27T02:58:10.000Z",
-      "dateLabel": "3/26/2026, 7:30:50 PM - 3/26/2026, 9:58:10 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260326-193050-z54x",
-      "summary": {
-        "borderlandsPct": 0.9642857142857143,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 16,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260324-200004-pl16",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-03-25T01:00:04.000Z",
-      "dateEnd": "2026-03-25T02:26:34.000Z",
-      "dateLabel": "3/24/2026, 8:00:04 PM - 3/24/2026, 9:26:34 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260324-200004-pl16",
-      "summary": {
-        "borderlandsPct": 0.4827586206896552,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 15,
-            "color": "#64748b"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260317-194041-fbwg",
-      "title": "Leo Stole My Heart",
-      "commanders": [
-        "Leo Stole My Heart"
-      ],
-      "dateStart": "2026-03-18T00:40:41.000Z",
-      "dateEnd": "2026-03-18T02:26:55.000Z",
-      "dateLabel": "3/17/2026, 7:40:41 PM - 3/17/2026, 9:26:55 PM",
-      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260317-194041-fbwg",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 24,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 10,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 30
-      }
+      "avgSquadSize": 30,
+      "avgEnemySize": 40
     }
-  ]
-}
+  }
+]
