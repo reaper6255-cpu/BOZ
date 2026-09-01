@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-210320-omly",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "guild": {
+        "id": "D9848EA9-0FBB-E311-8290-AC162DAE0BED",
+        "name": "Brotherhood Of Zetara",
+        "tag": "BOZ"
+      },
+      "dateStart": "2026-09-01T02:03:20.000Z",
+      "dateEnd": "2026-09-01T02:31:51.000Z",
+      "dateLabel": "8/31/2026, 9:03:20 PM - 8/31/2026, 9:31:51 PM",
+      "url": "https://reaper6255-cpu.github.io/BOZ/?report=20260831-210320-omly",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260829-204736-6s9f",
       "title": "Leo Stole My Heart",
       "commanders": [
